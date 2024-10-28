@@ -11,6 +11,9 @@ class Program
         Test();
     }
 
+    /// <summary>
+    /// Тест решения со структурой из 3 блоков сложения и 3 блоками вывода
+    /// </summary>
     private static void Test()
     {
         // Блоки
@@ -71,6 +74,9 @@ class Program
         entryNode.Run();
     }
 
+    /// <summary>
+    /// Тест решения со структурой из ТЗ
+    /// </summary>
     private static void TestFromSpec()
     {
         // Блоки
