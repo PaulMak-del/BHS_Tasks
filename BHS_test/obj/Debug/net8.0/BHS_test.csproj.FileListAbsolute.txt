@@ -1,0 +1,14 @@
+B:\Projects\AspNet\BHS_test\BHS_test\bin\Debug\net8.0\BHS_test.exe
+B:\Projects\AspNet\BHS_test\BHS_test\bin\Debug\net8.0\BHS_test.deps.json
+B:\Projects\AspNet\BHS_test\BHS_test\bin\Debug\net8.0\BHS_test.runtimeconfig.json
+B:\Projects\AspNet\BHS_test\BHS_test\bin\Debug\net8.0\BHS_test.dll
+B:\Projects\AspNet\BHS_test\BHS_test\bin\Debug\net8.0\BHS_test.pdb
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.AssemblyInfoInputs.cache
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.AssemblyInfo.cs
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.csproj.CoreCompileInputs.cache
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.dll
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\refint\BHS_test.dll
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.pdb
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\BHS_test.genruntimeconfig.cache
+B:\Projects\AspNet\BHS_test\BHS_test\obj\Debug\net8.0\ref\BHS_test.dll
