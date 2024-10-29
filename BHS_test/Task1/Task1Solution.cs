@@ -1,20 +1,23 @@
 ﻿using BHS_test.Nodes;
-using BHS_test.Task1;
 
-namespace BHS_test;
+namespace BHS_test.Task1;
 
-class Program
+/// <summary>
+/// Задание 1
+/// Обход графа
+/// </summary>
+public class Task1Solution
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        TestFromSpec();
-        Test();
+        Test1();
+        Test2();
     }
-
+    
     /// <summary>
     /// Тест решения со структурой из 3 блоков сложения и 3 блоками вывода
     /// </summary>
-    private static void Test()
+    private static void Test2()
     {
         // Блоки
         EntryNode entryNode = new EntryNode();
@@ -77,7 +80,7 @@ class Program
     /// <summary>
     /// Тест решения со структурой из ТЗ
     /// </summary>
-    private static void TestFromSpec()
+    private static void Test1()
     {
         // Блоки
         EntryNode entryNode = new EntryNode();
